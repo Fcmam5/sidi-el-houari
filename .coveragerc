@@ -1,0 +1,5 @@
+[run]
+include = sidi_el_houari/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
